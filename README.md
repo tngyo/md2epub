@@ -26,7 +26,7 @@ m3.md also illustrates how to create a hyperlink to another part of the document
 
 The font is changed at the last paragraph as an example.
 
-<mark>The style are defined at the end of this markdown so you can use as an example to modify (No separate stylesheet needed).</mark>
+<mark>This template uses the inline style for each element for now.</mark>
 
 This is probably all you need to get started to get your Epub book out.
 

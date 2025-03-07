@@ -1,0 +1,7 @@
+This will produce an epub book with a title and table of content and a cover image.
+
+pandoc .\m3.md -o m3.epub --metadata title="Markdown To Epub V3" --toc --epub-cover-image=cover.jpg
+
+
+
+

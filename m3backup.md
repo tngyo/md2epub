@@ -23,10 +23,7 @@ Not far below also illustrates how to create a hyperlink to another part of the 
 
 The font is changed at the last paragraph as an example.
 
-<mark>
-Styles are now inline (cleaner for Epub submission).
-~~The style are defined at the end of this markdown so you can use as an example to modify (No separate stylesheet needed).~~
-</mark>
+<mark>The style are defined at the end of this markdown so you can use as an example to modify (No separate stylesheet needed).</mark>
 
 This is probably all you need to get started to get your Epub book out.
 
@@ -84,5 +81,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam facilisis digniss
 
 Etiam a neque risus. Ut ex lorem, scelerisque sit amet dolor et, egestas vestibulum dolor. In imperdiet luctus dignissim. Curabitur bibendum imperdiet mollis. Etiam quis mollis metus. Nulla sit amet lorem eleifend, dictum metus sed, aliquam nibh. Nam ultricies metus id nunc ultricies maximus. Aliquam tempus tincidunt imperdiet. Nullam a velit quis tellus euismod pharetra eu eget nibh. Integer finibus viverra augue rutrum mattis. Aliquam at erat ut dolor dictum fermentum sit amet ac erat. Cras enim massa, pharetra in euismod non, laoreet eget lectus. Aliquam erat volutpat.
 
-<span style="color: #B2BEB5; font-family: Montserrat;">Ut dignissim quam volutpat pellentesque pharetra. Cras pellentesque auctor enim nec porttitor. Proin consectetur condimentum leo in ultrices. Vestibulum vulputate, massa a eleifend efficitur, nibh lorem fringilla enim, non dignissim neque est nec ex. Phasellus lacinia ligula orci, vitae consectetur lacus molestie non. Nunc ac imperdiet enim. Suspendisse sed rhoncus tortor. Sed iaculis augue id turpis ornare scelerisque. Nunc sit amet laoreet orci, non ultrices dui. Curabitur et accumsan leo, ut vehicula tellus. In ipsum erat, porttitor vel sollicitudin non, sagittis vulputate ex. Maecenas sit amet convallis metus, id pulvinar orci. Sed sit amet orci a ex fringilla finibus. Duis porta semper facilisis. Vivamus a mi nulla.</span>
+<span class="font2">Ut dignissim quam volutpat pellentesque pharetra. Cras pellentesque auctor enim nec porttitor. Proin consectetur condimentum leo in ultrices. Vestibulum vulputate, massa a eleifend efficitur, nibh lorem fringilla enim, non dignissim neque est nec ex. Phasellus lacinia ligula orci, vitae consectetur lacus molestie non. Nunc ac imperdiet enim. Suspendisse sed rhoncus tortor. Sed iaculis augue id turpis ornare scelerisque. Nunc sit amet laoreet orci, non ultrices dui. Curabitur et accumsan leo, ut vehicula tellus. In ipsum erat, porttitor vel sollicitudin non, sagittis vulputate ex. Maecenas sit amet convallis metus, id pulvinar orci. Sed sit amet orci a ex fringilla finibus. Duis porta semper facilisis. Vivamus a mi nulla.</span>
+
+<style>
+
+.font2{color: #B2BEB5; font-family: Montserrat;}
+
+</style>
 

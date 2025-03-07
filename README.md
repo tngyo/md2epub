@@ -1,6 +1,6 @@
 # md2epub
 
-m3.md is a sample Markdown Document that you can use as a **template** to generate an ePub book with the free pandoc terminal program. 
+**[m3.md](https://github.com/tngyo/md2epub/blob/main/m3.md)** is a sample Markdown Document that you can use as a **template** to generate an ePub book with the free pandoc terminal program. 
 
 [Install pandoc](https://pandoc.org/installing.html) first. Edit this document to your liking. Get your cover image ready and place it in the same folder as this markdown document. Then type the following command to start coverting this markdown document to Epub like so:
 
@@ -18,7 +18,7 @@ There are 3 ways to put up images as illustrated below:
 3. cat3.jpg (figure tag with caption and html tag for center alignment and size control)
 Take your pick. 
 
-Not far below also illustrates how to create a hyperlink to another part of the document i.e. Chapter 3
+m3.md also illustrates how to create a hyperlink to another part of the document i.e. Chapter 3
 
 The font is changed at the last paragraph as an example.
 

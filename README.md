@@ -32,4 +32,7 @@ This is probably all you need to get started to get your Epub book out.
 
 ![Epub Preview 1](https://github.com/tngyo/md2epub/blob/main/images/preview1.jpg)
 
+
 ![Epub Preview 2](https://github.com/tngyo/md2epub/blob/main/images/preview2.jpg)
+
+Note: The license is GNU GPL. It is the author's wish that you only use this for legal good purpose or at least nothing bad, not legal. Thank you.

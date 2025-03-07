@@ -26,3 +26,6 @@ The font is changed at the last paragraph as an example.
 
 This is probably all you need to get started to get your Epub book out.
 
+![Epub Preview 1](https://github.com/tngyo/md2epub/blob/main/images/preview1.jpg)
+
+![Epub Preview 2](https://github.com/tngyo/md2epub/blob/main/images/preview2.jpg)

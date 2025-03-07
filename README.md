@@ -1,6 +1,6 @@
 # md2epub
 
-**[m3.md](https://github.com/tngyo/md2epub/blob/main/m3.md)** is a sample Markdown Document that you can use as a **template** to generate an ePub book with the free pandoc terminal program. 
+### [m3.md](https://github.com/tngyo/md2epub/blob/main/m3.md) is a sample Markdown Document that you can use as a **template** to generate an ePub book with the free pandoc terminal program. 
 
 [Install pandoc](https://pandoc.org/installing.html) first. Edit this document to your liking. Get your cover image ready and place it in the same folder as this markdown document. Then type the following command to start coverting this markdown document to Epub like so:
 

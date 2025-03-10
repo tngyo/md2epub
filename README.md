@@ -26,7 +26,9 @@ m3.md also illustrates how to create a hyperlink to another part of the document
 
 The font is changed at the last paragraph as an example.
 
-<mark>This template uses the inline style for each element for now.</mark>
+__This template uses the inline style for each element for now.__
+
+For more information about using inline, internal CSS, and external CSS for markdown to Epub, read [here](https://www.riattosays.com/series/useful/md2epub/). Basically, external CSS will use the command like: `pandoc ... -c style.css`.
 
 This is probably all you need to get started to get your Epub book out.
 
